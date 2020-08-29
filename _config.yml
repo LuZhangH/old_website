@@ -24,24 +24,27 @@ linkedin_username: lu-zhang-91a7b1101
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Lu Zhang and I'm a .... 
+  I am currently a PhD student in the Department of Statistics at Harvard, advised by Prof. Lucas Janson. Prior to Harvard, I obtained a B.S. in Statistics from University of Science and Technology of China (USTC) in 2017.
 
   
 
 # Projects Section
-# projects_title: Projects
+projects_title: Publications & Manuscripts
 
 # Experience Section
-# experience_title: Experience
+experience_title: Teaching & Consulting
 
 # Education Section
-# educaton_title: Education
+educaton_title: Software
 
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in statistics some of my other interests and hobbies are:
+  I am particularly interested in solving problems related to high dimensional inference, combinatorial inference, multiple testing, graphical models and reinforcement learning. My research finds main applications in genetics and computational neuroscience.
+  Alongside my interests in Statistics some of my other interests and hobbies are:
+   - Badminton
    - Squash
+   - Classical Chinese poetry writing
 #   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
