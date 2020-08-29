@@ -25,7 +25,7 @@ linkedin_username: lu-zhang-91a7b1101
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am currently a PhD student in the Department of Statistics at Harvard, advised by Prof. Lucas Janson. 
-  Prior to Harvard, I obtained a B.S. in Statistics from University of Science and Technology of China (USTC) in 2017.
+  Prior to Harvard, I obtained a B.S. in Statistics from the University of Science and Technology of China (USTC) in 2017.
   I am particularly interested in solving problems related to high dimensional inference, combinatorial inference, multiple testing, graphical models and reinforcement learning.
   My research finds main applications in genetics and computational neuroscience.
 
